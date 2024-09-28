@@ -1,0 +1,10 @@
+C:\Users\lucas\OneDrive\Documentos\Faculdade\4° Semestre\Programação Orientada ao Objeto\Wfa - TestePfPj\Wfa - TestePfPj\obj\Debug\Wfa - TestePfPj.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documentos\Faculdade\4° Semestre\Programação Orientada ao Objeto\Wfa - TestePfPj\Wfa - TestePfPj\obj\Debug\Wfa___TestePfPj.Cadastro.resources
+C:\Users\lucas\OneDrive\Documentos\Faculdade\4° Semestre\Programação Orientada ao Objeto\Wfa - TestePfPj\Wfa - TestePfPj\obj\Debug\Wfa___TestePfPj.Properties.Resources.resources
+C:\Users\lucas\OneDrive\Documentos\Faculdade\4° Semestre\Programação Orientada ao Objeto\Wfa - TestePfPj\Wfa - TestePfPj\obj\Debug\Wfa - TestePfPj.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Documentos\Faculdade\4° Semestre\Programação Orientada ao Objeto\Wfa - TestePfPj\Wfa - TestePfPj\obj\Debug\Wfa - TestePfPj.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\Faculdade\4° Semestre\Programação Orientada ao Objeto\Wfa - TestePfPj\Wfa - TestePfPj\bin\Debug\Wfa - TestePfPj.exe.config
+C:\Users\lucas\OneDrive\Documentos\Faculdade\4° Semestre\Programação Orientada ao Objeto\Wfa - TestePfPj\Wfa - TestePfPj\bin\Debug\Wfa - TestePfPj.exe
+C:\Users\lucas\OneDrive\Documentos\Faculdade\4° Semestre\Programação Orientada ao Objeto\Wfa - TestePfPj\Wfa - TestePfPj\bin\Debug\Wfa - TestePfPj.pdb
+C:\Users\lucas\OneDrive\Documentos\Faculdade\4° Semestre\Programação Orientada ao Objeto\Wfa - TestePfPj\Wfa - TestePfPj\obj\Debug\Wfa - TestePfPj.exe
+C:\Users\lucas\OneDrive\Documentos\Faculdade\4° Semestre\Programação Orientada ao Objeto\Wfa - TestePfPj\Wfa - TestePfPj\obj\Debug\Wfa - TestePfPj.pdb

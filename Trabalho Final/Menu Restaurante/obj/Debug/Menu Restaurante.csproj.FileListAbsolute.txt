@@ -1,0 +1,10 @@
+C:\Users\lucas\OneDrive\Documentos\Faculdade\4° Semestre\Programação Orientada ao Objeto\Trabalho Final\Menu Restaurante\bin\Debug\Menu Restaurante.exe.config
+C:\Users\lucas\OneDrive\Documentos\Faculdade\4° Semestre\Programação Orientada ao Objeto\Trabalho Final\Menu Restaurante\bin\Debug\Menu Restaurante.exe
+C:\Users\lucas\OneDrive\Documentos\Faculdade\4° Semestre\Programação Orientada ao Objeto\Trabalho Final\Menu Restaurante\bin\Debug\Menu Restaurante.pdb
+C:\Users\lucas\OneDrive\Documentos\Faculdade\4° Semestre\Programação Orientada ao Objeto\Trabalho Final\Menu Restaurante\obj\Debug\Menu Restaurante.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documentos\Faculdade\4° Semestre\Programação Orientada ao Objeto\Trabalho Final\Menu Restaurante\obj\Debug\Menu_Restaurante.Properties.Resources.resources
+C:\Users\lucas\OneDrive\Documentos\Faculdade\4° Semestre\Programação Orientada ao Objeto\Trabalho Final\Menu Restaurante\obj\Debug\Menu Restaurante.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Documentos\Faculdade\4° Semestre\Programação Orientada ao Objeto\Trabalho Final\Menu Restaurante\obj\Debug\Menu Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\Faculdade\4° Semestre\Programação Orientada ao Objeto\Trabalho Final\Menu Restaurante\obj\Debug\Menu Restaurante.exe
+C:\Users\lucas\OneDrive\Documentos\Faculdade\4° Semestre\Programação Orientada ao Objeto\Trabalho Final\Menu Restaurante\obj\Debug\Menu Restaurante.pdb
+C:\Users\lucas\OneDrive\Documentos\Faculdade\4° Semestre\Programação Orientada ao Objeto\Trabalho Final\Menu Restaurante\obj\Debug\Menu_Restaurante.Form1.resources

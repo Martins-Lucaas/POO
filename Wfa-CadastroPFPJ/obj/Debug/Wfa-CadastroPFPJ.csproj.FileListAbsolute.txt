@@ -1,0 +1,18 @@
+C:\Users\Alunos\Desktop\cpfcnpj\Wfa-CadastroPFPJ\bin\Debug\Wfa-CadastroPFPJ.exe.config
+C:\Users\Alunos\Desktop\cpfcnpj\Wfa-CadastroPFPJ\bin\Debug\Wfa-CadastroPFPJ.exe
+C:\Users\Alunos\Desktop\cpfcnpj\Wfa-CadastroPFPJ\bin\Debug\Wfa-CadastroPFPJ.pdb
+C:\Users\Alunos\Desktop\cpfcnpj\Wfa-CadastroPFPJ\obj\Debug\Wfa-CadastroPFPJ.csproj.AssemblyReference.cache
+C:\Users\Alunos\Desktop\cpfcnpj\Wfa-CadastroPFPJ\obj\Debug\Wfa-CadastroPFPJ.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alunos\Desktop\cpfcnpj\Wfa-CadastroPFPJ\obj\Debug\Wfa_CadastroPFPJ.Form1.resources
+C:\Users\Alunos\Desktop\cpfcnpj\Wfa-CadastroPFPJ\obj\Debug\Wfa_CadastroPFPJ.Properties.Resources.resources
+C:\Users\Alunos\Desktop\cpfcnpj\Wfa-CadastroPFPJ\obj\Debug\Wfa-CadastroPFPJ.csproj.GenerateResource.cache
+C:\Users\Alunos\Desktop\cpfcnpj\Wfa-CadastroPFPJ\obj\Debug\Wfa-CadastroPFPJ.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\cpfcnpj\Wfa-CadastroPFPJ\obj\Debug\Wfa-CadastroPFPJ.exe
+C:\Users\Alunos\Desktop\cpfcnpj\Wfa-CadastroPFPJ\obj\Debug\Wfa-CadastroPFPJ.pdb
+C:\Users\lucas\OneDrive\Documentos\Faculdade\4° Semestre\Programação Orientada ao Objeto\Wfa-CadastroPFPJ\obj\Debug\Wfa-CadastroPFPJ.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documentos\Faculdade\4° Semestre\Programação Orientada ao Objeto\Wfa-CadastroPFPJ\obj\Debug\Wfa_CadastroPFPJ.Form1.resources
+C:\Users\lucas\OneDrive\Documentos\Faculdade\4° Semestre\Programação Orientada ao Objeto\Wfa-CadastroPFPJ\obj\Debug\Wfa_CadastroPFPJ.Properties.Resources.resources
+C:\Users\lucas\OneDrive\Documentos\Faculdade\4° Semestre\Programação Orientada ao Objeto\Wfa-CadastroPFPJ\obj\Debug\Wfa-CadastroPFPJ.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Documentos\Faculdade\4° Semestre\Programação Orientada ao Objeto\Wfa-CadastroPFPJ\obj\Debug\Wfa-CadastroPFPJ.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\Faculdade\4° Semestre\Programação Orientada ao Objeto\Wfa-CadastroPFPJ\obj\Debug\Wfa-CadastroPFPJ.exe
+C:\Users\lucas\OneDrive\Documentos\Faculdade\4° Semestre\Programação Orientada ao Objeto\Wfa-CadastroPFPJ\obj\Debug\Wfa-CadastroPFPJ.pdb
